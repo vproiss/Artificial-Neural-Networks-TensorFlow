@@ -1,11 +1,3 @@
-"""
-The main file for ANNs with Tensorflow Homework 05
-
-Created: 24.11.21, 10:57
-
-Author: LDankert
-"""
-
 import tensorflow as tf
 import tensorflow_datasets as tfds
 import os.path

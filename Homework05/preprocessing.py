@@ -1,11 +1,3 @@
-"""
-Module for the preprocessing funcitons
-
-Created: 24.11.21, 11:45
-
-Author: LDankert
-"""
-
 import numpy as np
 import tensorflow as tf
 
