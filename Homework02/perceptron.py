@@ -1,10 +1,3 @@
-"""
-perceptron class
-
-Created: 01.11.21, 20:04
-
-Author: LDankert
-"""
 import numpy
 import numpy as np
 
