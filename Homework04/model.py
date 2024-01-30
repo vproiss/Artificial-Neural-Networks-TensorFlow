@@ -1,10 +1,3 @@
-"""
-The class for the model
-
-Created: 19.11.21, 13:09
-
-Author: LDankert
-"""
 import tensorflow as tf
 
 class Model(tf.keras.Model):

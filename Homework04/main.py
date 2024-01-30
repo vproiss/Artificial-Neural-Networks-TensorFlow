@@ -1,11 +1,3 @@
-"""
-The main file for Homework #04
-
-Created: 17.11.21, 15:55
-
-Author: LDankert
-"""
-
 import numpy as np
 import pandas as pd
 import os.path

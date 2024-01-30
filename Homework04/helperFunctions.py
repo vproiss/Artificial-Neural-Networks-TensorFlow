@@ -1,10 +1,3 @@
-"""
-Modul for all helper functions
-
-Created: 19.11.21, 13:06
-
-Author: LDankert
-"""
 import tensorflow as tf
 
 
