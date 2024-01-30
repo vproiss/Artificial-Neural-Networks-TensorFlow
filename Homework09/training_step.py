@@ -1,11 +1,3 @@
-"""
-The training_step function
-
-Created: 15.01.22, 19:16
-
-Author: LDankert
-"""
-
 import tensorflow as tf
 import datetime
 

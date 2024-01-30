@@ -1,11 +1,3 @@
-"""
-Main file of homework 09
-
-Created: 15.01.22, 11:24
-
-Author: LDankert
-"""
-
 import os
 import glob
 import imageio

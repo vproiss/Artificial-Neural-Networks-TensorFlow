@@ -1,10 +1,3 @@
-"""
-model
-
-Created: 22.01.22, 12:25
-
-Author: LDankert
-"""
 from abc import ABC
 
 import tensorflow as tf

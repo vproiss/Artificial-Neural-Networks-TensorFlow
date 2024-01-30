@@ -1,11 +1,3 @@
-"""
-The preprocessing
-
-Created: 15.01.22, 12:19
-
-Author: LDankert
-"""
-
 import tensorflow as tf
 import numpy as np
 
