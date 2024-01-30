@@ -1,10 +1,3 @@
-"""
-The encoder class
-
-Created: 14.12.21, 22:11
-
-Author: LDankert
-"""
 import tensorflow as tf
 from tensorflow.keras.models import Model
 from tensorflow.keras import layers

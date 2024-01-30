@@ -1,10 +1,3 @@
-"""
-The decoder class
-
-Created: 14.12.21, 22:15
-
-Author: LDankert
-"""
 import tensorflow as tf
 from tensorflow.keras.models import Model
 from tensorflow.keras import layers

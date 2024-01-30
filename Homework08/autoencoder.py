@@ -1,10 +1,3 @@
-"""
-The combining autoencoder class
-
-Created: 14.12.21, 22:20
-
-Author: LDankert
-"""
 from encoder import Encoder
 from decoder import Decoder
 import tensorflow as tf

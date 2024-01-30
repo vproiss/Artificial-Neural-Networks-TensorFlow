@@ -1,11 +1,3 @@
-"""
-Main module for Homework 08
-
-Created: 14.12.21, 16:01
-
-Author: LDankert
-"""
-
 import tensorflow as tf
 import tensorflow_datasets as tfds
 import numpy as np

@@ -1,14 +1,3 @@
-"""
-The processing functions
-    * preprocessing_data(dataset, noise_ratio)
-    * train_step(model, input, target, loss_function, optimizer):
-    * test(model, test_data, loss_function):
-
-Created: 14.12.21, 16:07
-
-Author: LDankert
-"""
-
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
