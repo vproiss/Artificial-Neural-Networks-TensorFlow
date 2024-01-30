@@ -1,10 +1,3 @@
-"""
-LSTM cell Class
-
-Created: 11.12.21, 19:04
-
-Author: LDankert
-"""
 import tensorflow as tf
 from tensorflow.keras.layers import Layer, Dense
 

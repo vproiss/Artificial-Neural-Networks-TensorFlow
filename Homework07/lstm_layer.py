@@ -1,11 +1,3 @@
-"""
-The layer for the lstm
-
-Created: 11.12.21, 21:47
-
-Author: LDankert
-"""
-
 import tensorflow as tf
 import numpy as np
 from tensorflow.keras.layers import Layer

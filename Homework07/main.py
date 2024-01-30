@@ -1,11 +1,3 @@
-"""
-Main file for Homework 07
-
-Created: 11.12.21, 18:08
-
-Author: LDankert
-"""
-
 import numpy as np
 import tensorflow as tf
 from model import LSTM_Model

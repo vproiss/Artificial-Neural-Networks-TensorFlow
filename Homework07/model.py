@@ -1,11 +1,3 @@
-"""
-The model class
-
-Created: 11.12.21, 23:52
-
-Author: LDankert
-"""
-
 from lstm_cell import LSTM_Cell
 from lstm_layer import LSTM_Layer
 from tensorflow.keras import Model
