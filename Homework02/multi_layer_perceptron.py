@@ -1,11 +1,3 @@
-"""
-Multi Layer Perceptron Class
-
-Created: 01.11.21, 20:22
-
-Author: LDankert
-"""
-
 from perceptron import Perceptron, sigmoid
 
 

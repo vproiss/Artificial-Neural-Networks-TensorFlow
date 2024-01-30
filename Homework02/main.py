@@ -1,11 +1,3 @@
-"""
-First modul for homework 02
-
-Created: 01.11.21, 19:17
-
-Author: LDankert
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from training import training

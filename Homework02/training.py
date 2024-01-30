@@ -1,11 +1,3 @@
-"""
-Modul for training function
-
-Created: 06.11.21, 22:14
-
-Author: VProiss
-"""
-
 import numpy as np
 from perceptron import Perceptron
 from multi_layer_perceptron import MultiLayerPerceptron
